@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "force-app",
+      "default": true
+    }
+  ],
+  "name": "CursoGit",
+  "namespace": "",
+  "sfdcLoginUrl": "https://cunning-panda-r2qw8y-dev-ed.trailblaze.my.salesforce.com/",
+  "sourceApiVersion": "56.0"
+}
